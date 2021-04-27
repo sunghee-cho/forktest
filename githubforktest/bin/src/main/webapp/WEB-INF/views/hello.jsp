@@ -14,6 +14,6 @@ $(document).ready(function() {
 </script>
 </head>
 <body>
-hello.jsp fork수정~~~
+hello.jsp 
 </body>
 </html>
