@@ -14,6 +14,6 @@ $(document).ready(function() {
 </script>
 </head>
 <body>
-hello.jsp 
+hello.jsp 변경했습니다. 
 </body>
 </html>
