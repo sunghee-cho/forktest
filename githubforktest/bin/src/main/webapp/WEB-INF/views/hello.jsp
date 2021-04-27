@@ -14,6 +14,6 @@ $(document).ready(function() {
 </script>
 </head>
 <body>
-hello.jsp fork로 변경합니다.
+hello.jsp 
 </body>
 </html>
